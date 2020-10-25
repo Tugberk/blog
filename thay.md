@@ -1,0 +1,7 @@
+Thay, Thich Nhat Hanh a öğrencileri tarafından verilen bir isimdir. Öğretmen, master demek. Kendisi bir Zen master. Sayısız kitap yazmış, Malcolm X tarafından **Nobel Barış Ödülü**ne aday gösterilmiş, Vietnam da yaşarken 2 tane büyük savaş görmüş: Fransa-Indoçin savaşı ve Vietnam savaşı bir budisttir. 
+
+Saigon üniversitesinde okurken, Budizmin biraz daha halka inmesi gerektiğine inanmış ve 3 arkadaşı ile beraber bir dergi çıkarmıştır. Bu dergi üniversite yönetimi tarafından beğenilmediği için, o okuldan ayrılmış olsalar da Saigon Üni tarafından diğer manastırlara "Bunları kabul etmeyin" dendiği için bir arkadaşlarının evinde kalarak orada harekete geçmişler ve kendi "Engaged Buddhism" öğretilerini başlatmışlardır. Savaş sırasında bombalanan şehirlerin yeniden yapılmasına, sel baskınlarından etkilenmiş köylere yardım etmeye gitmişler ve halkla bir olmuşlardır. 
+
+Yani aslında bazı insanlar keşişlerin "boş oturduklarını" düşünebilirler ancak tam olarak böyle olmadığına Thay büyük bir örnektir. 
+
+Kendisi Fransa da **Plum Village** adında bir yer kurmuştur ancak bunu Osho'nun yerlerine benzetmeyelim. Zira Thay onlara benzeyen biri değil. 4-5 dil bilen, savaşlar görmüş, bu savaşların karşısında durmuş ve ülke ülke gezerek barış konuşmaları yapmış bir aktivisttir aynı zamanda. Bunun yanında da öğretmendir. Amerika da Stanford Üniversitesi'nde ders vermiş, manastırda da yüzlerce insan yetiştirmiştir. 
