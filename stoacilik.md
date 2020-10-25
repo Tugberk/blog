@@ -44,3 +44,5 @@ Bu kitap da bazılarına göre çok okunduğunda melankolik bir hava yaratır. Z
 
 Özetlemek istersek eğer, elbette 100-150 satırda anlatmak çok güç. Bu konu ile ilgili Daniel Robertson ve Ryan Holiday in kitapları güzel kaynaklar olabilir. Bununla beraber bu insanları da okumak gerekir ancak o konuda da dikkatli olmak gerek - zira o kitapların bazılarını bulamayacağımız gibi o dönemi bilmiyorsak eğer manalandırmak zor olacağı gibi yanlış da değerlendirebiliriz. 
 
+
+Stoacılar güne odaklanmayı da söyler. Onlar için sahip olduğumuz tek şey şu an. Bu Zen budizmiyle de bir benzerlik gösteriyor. Hatta söyleyeceğimiz şeylerin "son sözlerimiz" olabileceğini sürekli hatırlatırlar. İki düşün bir söyle. Çünkü yarın olmayabilirsin - ya da karşıdaki insan yarın olmayabilir. Bunu unutma konuşurken.
