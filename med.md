@@ -1,4 +1,6 @@
 
+# aileden genetik gelen seylerden de bahsedelim
+
 Thay ın öğretisinde **mindfulness** yani **farkındalık** büyük bir yer kaplar. Hatta her şeyin başıdır. Meditasyon yaptığımızda da hem konsantrasyon, hem farkındalık hem de iç görü sahibi oluruz. (concentration, mindfulness and insight)
 
 Budizme göre **compassion**, yani **şefkat** en önemli şeydir. Ancak bu rastgele sağlanacak bir şey değil. Bu merhamet ve şefkate sahip olmanın yolu anlamaktan geçer. Anlamak için ise tüm önyargılarımızdan arınarak, saf bir gözle bakmalıyız karşımızdakine.
