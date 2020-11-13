@@ -1,8 +1,8 @@
 # Stoacılık
 
-Stoacılıktan bahsederken genellikle 3 kişiden bahsediliyor: Marcus Aurelius, Seneca ve Epictetus. Aslında bunlar son dönem stoacılar, ve roma stoacılığının öncüleri. Temel olarak onları bilme nedenlerimiz ise onlarla ilgili eserler bulunması. Aurelius'un kendisine yazdığı notlar var elimizde. Seneca nın mektupları, ve Epictetus un öğrencisinin yazdığı şeyler. Epictetus kendisi bir eser bırakmamış.
+Stoacılıktan bahsederken genellikle 3 kişiden bahsediliyor: *Marcus Aurelius, Seneca ve Epictetus*. Aslında bunlar son dönem stoacılar, ve Roma stoacılığının öncüleri. Temel olarak onları bilme nedenlerimiz ise onlarla ilgili eserler bulunması. Aurelius'un kendisine yazdığı notlar var elimizde. Seneca nın mektupları, ve Epictetus un öğrencisinin yazdığı şeyler. Epictetus kendisi bir eser bırakmamış. Bu öğreti de ilk olarak Zeno tarafından başlatılmıştır. Cynicler altında eğitim alan Zeno sonra bunu geliştirerek bir okul kurmuş, ardından gelen birkaç hoca ile birlikte birçok eser bırakmış ancak ne yazık ki bunlar yanmıştır. Stoacılık dediğimizde akla sadece bu yukardaki üç isim gelse de aslında eserleri ne yazık ki günümüze ulaşmamış olan birçok bilge mevcut.
 
-Ancak, Stoacılıktan bahsederken antik stoacılık ya da yunan stoacılığını unutmamak gerekir. Çünkü yukarıda isimlendirdiklerimiz stoacılığın sadece "etik" bölümüyle ilgilenmiş ve aslında antik yunan stoacılığının fizik ve mantık bölümlerini pek dikkate almamıştır. Bu o insanların hatası ya da eksiği değil. Roma, Yunan stoacı filozoflar gelip öğrettiğinde kendileri benimserken kendi hayat görüşlerine ayarlamışlar. O yüzden işin bu bölümü daha dikkate alınmış çünkü biraz aktif Romalılar devlet işlerinde.
+Ancak, Stoacılıktan bahsederken antik stoacılık ya da yunan stoacılığını unutmamak gerekir. Çünkü yukarıda isimlendirdiklerimiz stoacılığın sadece "etik" bölümüyle ilgilenmiş ve aslında antik yunan stoacılığının fizik ve mantık bölümlerini pek dikkate almamıştır. Bu o insanların hatası ya da eksiği değil. Roma, Yunan stoacı filozoflar gelip öğrettiğinde kendileri benimserken kendi hayat görüşlerine ayarlamışlar. O yüzden işin bu bölümü daha dikkate alınmış çünkü biraz aktif Romalılar devlet işlerinde. Önceki zamanlarda ise Stoacılığı üç şekilde bölmüşler: *mantık, fizik, etik*
 
 Din ilk zamanlar biraz daha ritüelistik bir şey olduğu için, "nasıl yaşanır" sorusuna cevabı dinler değil felsefe veriyordu. Stoacılık bu soruya cevap vermeye çalışan bir inanç sistemidir. Bir din değildir. 
 
@@ -20,7 +20,9 @@ Buna ek olarak bir neden-sonuç ilişkisi vardır stoacılıkta. Yani olan şeyl
 
 iyi - kotu - indifferent
 
-Antik stoacılar daha farklı konulara, varoluş vb. de kafa yormuşlardır. Örneğin, Logos un "Pneuma" olarak (saf ateş) var olduğuna inanmışlardır ve hatta Chrysippus bunun hava ve ateş karışımı olduğunu savunmuştur. Pneuma da aslında biraz ki / prana / chi enerjilerini andırıyor okuduğumuzda, bize hayat veren ve bizi biz yapan enerji gibi. Hatta onlara göre cansız cisimler bile pneuma sahibidir. Örneğin taşı taş yapan bir içsellik olduğunu düşünürler.
+Çoğu şeyin de indifferent olduğunu düşünürler. 
+
+Antik stoacılar daha farklı konulara, varoluş vb. de kafa yormuşlardır. Örneğin, Logos un **Pneuma** olarak (saf ateş) var olduğuna inanmışlardır ve hatta Chrysippus bunun hava ve ateş karışımı olduğunu savunmuştur. Pneuma da aslında biraz ki / prana / chi enerjilerini andırıyor okuduğumuzda, bize hayat veren ve bizi biz yapan enerji gibi. Hatta onlara göre cansız cisimler bile pneuma sahibidir. Örneğin taşı taş yapan bir içsellik olduğunu düşünürler.
 
 Buna benzer bir şekilde budizmi andıran bir inanç da mevcuttur stoacılıkta. Logostan gelen logosa döner. Başka bir yere gidemez, sürekli onun içindedir. Bir nevi sürekli bir ölüm ve doğum hali var. 
 
@@ -34,15 +36,20 @@ Ancak yine de, Chrysippus döneminde yani Antik yunan dönemindeki stoacılıkta
 
 Ancak elbette ki bu Logos inancı hala mevcut. Hatta yine İslam a benzeyen bir şey görüyoruz. İslam da tanrı ruhumuzu üflediğinden dolayı hepimizin içinde bir tanrısal güç olduğuna inanılır. Tanrının bir parçası vardır çünkü hayat veren. Stoacılıkta bunu logos ile görür. Logostan geldiğimiz için ve bize can veren Logos olduğu için içimizde böyle bir tanrısal güç barındırırız. O yüzden de "İnsan insan içindir" der Marcus, ve bir insanın bir diğerine zarar veremeyeceğini söyler. Çünkü kimse, insanın içindeki o tanrısal güce zarar verecek güce sahip değildir. Bizim genel tanımımıza göre "kötü" eylem yapan insan ancak kendine zarar verebilir. Bana, ancak ben zarar gördüğüme inandıysam verebilir. Aksi taktirde, benim dışımda birinin yaptığı bir eylemden dolayı ben zarar göremem. Çünkü eylem, kendi üstünde "iyi ya da kötü" diye bir şey taşımaz. 
 
-Bu iyi/kötü tanımı olmaması işleri biraz karıştırsa da stoacılık bunu şöyle açıklıyor: İnsan sosyal bir varlıktır ve bir diğer için vardır. Dolayısıyla, bizler bir diğerimiz için yaşamalı, kolektif bir iyilik için çalışmalı, adaletli ve hakkaniyetli davranmalıyız. 
+Bu iyi/kötü tanımı olmaması işleri biraz karıştırsa da stoacılık bunu şöyle açıklıyor: İnsan sosyal bir varlıktır ve bir diğer için vardır. Dolayısıyla, bizler bir diğerimiz için yaşamalı, kolektif bir iyilik için çalışmalı, adaletli ve hakkaniyetli davranmalıyız. Hatta Marcus ne diyor; *"İnsanlar birbirleri için yaratılmıştır. ya eğit onları ya da onlara katlan."*
 
-Marcus un kitabında diğer felsefelerden etkilendiğini gösteren çok fazla şey var. Bununla beraber ölüm ve sıkıntı ile ilgili de çok şey var. Bunun nedeni aslında yazılma dönemleri ve o çağ ile alakalı. Örneğin veba döneminde yaşamış ve o yüzden ölmüştür Marcus Aurelius, ve kendine notları da bir cephede yazmaya başlamştır. O yüzden kendini telkin amacıyla bunları yazması çok normal. Seneca da Nero gibi bir delinin yanında olduğu için hayatı her an ellerinden kayabilir ve serveti her an gidebilir inancında olduğu için kendini bu yönde telkin etmiştir. 
+Marcus un kitabında diğer felsefelerden etkilendiğini gösteren çok fazla şey var. Bununla beraber ölüm ve sıkıntı ile ilgili de çok şey var. Bunun nedeni aslında yazılma dönemleri ve o çağ ile alakalı. Örneğin veba döneminde yaşamış ve o yüzden ölmüştür Marcus Aurelius ve kendine notları da bir cephede yazmaya başlamştır. O yüzden kendini telkin amacıyla bunları yazması çok normal. Seneca da *Nero* gibi bir delinin yanında olduğu için hayatı her an ellerinden kayabilir ve serveti her an gidebilir inancında olduğu için kendini bu yönde telkin etmiştir. 
 
-Bu kitap da bazılarına göre çok okunduğunda melankolik bir hava yaratır. Zira Marcus aslında mutlu olmayı anlatmaz kitabında. Daha çok "adult life" ın zorlukları ile nasıl başa çıkabileceğimizi anlatır. 
+Kendime düşünceler kitabı da çok okunduğunda melankolik bir hava yaratır. Zira Marcus aslında mutlu olmayı anlatmaz kitabında. Daha çok "adult life" ın zorlukları ile nasıl başa çıkabileceğimizi anlatır. 
 
 -
 
-Özetlemek istersek eğer, elbette 100-150 satırda anlatmak çok güç. Bu konu ile ilgili Daniel Robertson ve Ryan Holiday in kitapları güzel kaynaklar olabilir. Bununla beraber bu insanları da okumak gerekir ancak o konuda da dikkatli olmak gerek - zira o kitapların bazılarını bulamayacağımız gibi o dönemi bilmiyorsak eğer manalandırmak zor olacağı gibi yanlış da değerlendirebiliriz. 
+Zenginlik ya da mal mülk işlerini stoacılık hedeflemez. Yani birisinin zengin olmayı kovalamasını öğütlemez. Ancak zenginliğin bir avantaj olduğunu düşünürler. Yani zenginlik iyi ya da kötü değil, bir avantajdır. 
 
+Alkol almaya tamamen karşı olmasalar da, elbette ki sarhoş olmaya tamamen karşılardır.
+
+
+
+Özetlemek istersek eğer, elbette 100-150 satırda anlatmak çok güç. Bu konu ile ilgili Daniel Robertson ve Ryan Holiday in kitapları güzel kaynaklar olabilir. Bununla beraber bu insanları da okumak gerekir ancak o konuda da dikkatli olmak gerek - zira o kitapların bazılarını bulamayacağımız gibi o dönemi bilmiyorsak eğer manalandırmak zor olacağı gibi yanlış da değerlendirebiliriz. 
 
 Stoacılar güne odaklanmayı da söyler. Onlar için sahip olduğumuz tek şey şu an. Bu Zen budizmiyle de bir benzerlik gösteriyor. Hatta söyleyeceğimiz şeylerin "son sözlerimiz" olabileceğini sürekli hatırlatırlar. İki düşün bir söyle. Çünkü yarın olmayabilirsin - ya da karşıdaki insan yarın olmayabilir. Bunu unutma konuşurken. Amor fati gibi bir de **memento mori** kavramı vardır. Ölümü hatırla. Ölümü hatırla ki yaşamayı unutma. 
